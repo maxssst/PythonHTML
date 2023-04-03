@@ -1,0 +1,33 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(174, 231, 193, 0.7076566125290022) 0%, rgba(0, 212, 255, 1) 100%);
+}
+
+#inputer {
+    display: inline;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#mainPage {
+    position: relative;
+    text-align: center;
+    padding: 100px;
+}
+
+#button1 {
+    text-align: center;
+    margin: 10px;
+    padding: auto;
+    border-radius: 5px;
+    font-size: 20px;
+    display: inline;
+    border: none;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(174, 231, 193, 0.7076566125290022) 0%, rgba(250, 178, 83, 1) 100%, rgba(0, 212, 255, 1) 100%);
+}
+
+#button1:hover {
+    opacity: .9;
+}
